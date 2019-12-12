@@ -1,0 +1,2493 @@
+k = 2
+Page 1: score = 97.8% correct
+Page 2: score = 98.2% correct
+Page 3: score = 80.3% correct
+Page 4: score = 54.3% correct
+Page 5: score = 37.2% correct
+Page 6: score = 31.2% correct
+Time used: 58.10506081581116 s
+k = 3
+Page 1: score = 97.8% correct
+Page 2: score = 98.3% correct
+Page 3: score = 81.6% correct
+Page 4: score = 56.9% correct
+Page 5: score = 39.1% correct
+Page 6: score = 32.4% correct
+Time used: 57.90501260757446 s
+k = 4
+Page 1: score = 97.9% correct
+Page 2: score = 98.3% correct
+Page 3: score = 82.2% correct
+Page 4: score = 57.3% correct
+Page 5: score = 39.5% correct
+Page 6: score = 32.8% correct
+Time used: 58.15807032585144 s
+k = 5
+Page 1: score = 97.7% correct
+Page 2: score = 98.1% correct
+Page 3: score = 83.4% correct
+Page 4: score = 58.7% correct
+Page 5: score = 40.4% correct
+Page 6: score = 34.1% correct
+Time used: 58.33310866355896 s
+k = 6
+Page 1: score = 97.7% correct
+Page 2: score = 98.1% correct
+Page 3: score = 83.9% correct
+Page 4: score = 59.6% correct
+Page 5: score = 40.7% correct
+Page 6: score = 34.4% correct
+Time used: 58.588446378707886 s
+k = 7
+Page 1: score = 97.4% correct
+Page 2: score = 97.9% correct
+Page 3: score = 84.4% correct
+Page 4: score = 60.4% correct
+Page 5: score = 41.7% correct
+Page 6: score = 35.4% correct
+Time used: 58.89723587036133 s
+k = 8
+Page 1: score = 97.3% correct
+Page 2: score = 97.8% correct
+Page 3: score = 85.1% correct
+Page 4: score = 60.7% correct
+Page 5: score = 42.1% correct
+Page 6: score = 35.7% correct
+Time used: 59.15529465675354 s
+k = 9
+Page 1: score = 97.0% correct
+Page 2: score = 97.8% correct
+Page 3: score = 85.9% correct
+Page 4: score = 61.5% correct
+Page 5: score = 42.7% correct
+Page 6: score = 36.3% correct
+Time used: 59.44135785102844 s
+k = 10
+Page 1: score = 96.9% correct
+Page 2: score = 97.9% correct
+Page 3: score = 86.0% correct
+Page 4: score = 62.4% correct
+Page 5: score = 43.0% correct
+Page 6: score = 37.3% correct
+Time used: 59.77043175697327 s
+k = 11
+Page 1: score = 96.6% correct
+Page 2: score = 97.7% correct
+Page 3: score = 86.5% correct
+Page 4: score = 62.7% correct
+Page 5: score = 43.4% correct
+Page 6: score = 37.6% correct
+Time used: 60.23149824142456 s
+k = 12
+Page 1: score = 96.6% correct
+Page 2: score = 97.8% correct
+Page 3: score = 86.9% correct
+Page 4: score = 63.3% correct
+Page 5: score = 43.5% correct
+Page 6: score = 37.9% correct
+Time used: 60.575613021850586 s
+k = 13
+Page 1: score = 96.5% correct
+Page 2: score = 97.5% correct
+Page 3: score = 87.4% correct
+Page 4: score = 63.5% correct
+Page 5: score = 43.9% correct
+Page 6: score = 38.4% correct
+Time used: 60.88868284225464 s
+k = 14
+Page 1: score = 96.3% correct
+Page 2: score = 97.6% correct
+Page 3: score = 87.6% correct
+Page 4: score = 63.8% correct
+Page 5: score = 44.3% correct
+Page 6: score = 38.7% correct
+Time used: 61.18474984169006 s
+k = 15
+Page 1: score = 96.1% correct
+Page 2: score = 97.5% correct
+Page 3: score = 87.7% correct
+Page 4: score = 64.4% correct
+Page 5: score = 45.0% correct
+Page 6: score = 38.8% correct
+Time used: 61.807889223098755 s
+k = 16
+Page 1: score = 96.2% correct
+Page 2: score = 97.5% correct
+Page 3: score = 87.6% correct
+Page 4: score = 64.7% correct
+Page 5: score = 45.5% correct
+Page 6: score = 38.8% correct
+Time used: 61.66185712814331 s
+k = 17
+Page 1: score = 95.9% correct
+Page 2: score = 97.3% correct
+Page 3: score = 88.1% correct
+Page 4: score = 64.7% correct
+Page 5: score = 45.8% correct
+Page 6: score = 39.0% correct
+Time used: 62.35601329803467 s
+k = 18
+Page 1: score = 95.8% correct
+Page 2: score = 97.3% correct
+Page 3: score = 88.2% correct
+Page 4: score = 64.8% correct
+Page 5: score = 45.9% correct
+Page 6: score = 39.2% correct
+Time used: 62.122960805892944 s
+k = 19
+Page 1: score = 95.9% correct
+Page 2: score = 97.1% correct
+Page 3: score = 88.2% correct
+Page 4: score = 65.6% correct
+Page 5: score = 46.4% correct
+Page 6: score = 39.2% correct
+Time used: 62.40302300453186 s
+k = 20
+Page 1: score = 95.9% correct
+Page 2: score = 97.1% correct
+Page 3: score = 88.2% correct
+Page 4: score = 65.7% correct
+Page 5: score = 46.8% correct
+Page 6: score = 39.2% correct
+Time used: 63.636300563812256 s
+k = 21
+Page 1: score = 95.8% correct
+Page 2: score = 96.9% correct
+Page 3: score = 88.5% correct
+Page 4: score = 65.7% correct
+Page 5: score = 47.0% correct
+Page 6: score = 39.5% correct
+Time used: 63.5417058467865 s
+k = 22
+Page 1: score = 95.8% correct
+Page 2: score = 97.1% correct
+Page 3: score = 88.8% correct
+Page 4: score = 66.3% correct
+Page 5: score = 47.3% correct
+Page 6: score = 39.7% correct
+Time used: 63.81885862350464 s
+k = 23
+Page 1: score = 95.3% correct
+Page 2: score = 96.8% correct
+Page 3: score = 88.9% correct
+Page 4: score = 66.8% correct
+Page 5: score = 47.6% correct
+Page 6: score = 39.6% correct
+Time used: 64.64717125892639 s
+k = 24
+Page 1: score = 95.6% correct
+Page 2: score = 96.7% correct
+Page 3: score = 88.9% correct
+Page 4: score = 67.2% correct
+Page 5: score = 47.4% correct
+Page 6: score = 39.7% correct
+Time used: 64.36446404457092 s
+k = 25
+Page 1: score = 95.5% correct
+Page 2: score = 96.8% correct
+Page 3: score = 89.4% correct
+Page 4: score = 67.4% correct
+Page 5: score = 48.3% correct
+Page 6: score = 40.4% correct
+Time used: 64.789559841156 s
+k = 26
+Page 1: score = 95.6% correct
+Page 2: score = 96.5% correct 
+Page 3: score = 89.6% correct 
+Page 4: score = 67.5% correct
+Page 5: score = 48.6% correct
+Page 6: score = 40.2% correct
+Time used: 65.70477485656738 s
+k = 27
+Page 1: score = 95.2% correct
+Page 2: score = 96.4% correct
+Page 3: score = 89.5% correct
+Page 4: score = 67.8% correct
+Page 5: score = 49.0% correct
+Page 6: score = 40.6% correct
+Time used: 65.94582033157349 s
+k = 28
+Page 1: score = 95.1% correct
+Page 2: score = 96.3% correct
+Page 3: score = 89.6% correct
+Page 4: score = 67.7% correct
+Page 5: score = 49.2% correct
+Page 6: score = 40.8% correct
+Time used: 66.23488402366638 s
+k = 29
+Page 1: score = 94.8% correct
+Page 2: score = 96.2% correct
+Page 3: score = 89.6% correct
+Page 4: score = 67.8% correct
+Page 5: score = 49.6% correct
+Page 6: score = 41.0% correct
+Time used: 67.50117015838623 s
+k = 30
+Page 1: score = 94.8% correct
+Page 2: score = 96.2% correct
+Page 3: score = 89.9% correct
+Page 4: score = 68.2% correct
+Page 5: score = 50.1% correct
+Page 6: score = 41.1% correct
+Time used: 69.69911313056946 s
+k = 31
+Page 1: score = 94.6% correct
+Page 2: score = 96.0% correct 
+Page 3: score = 89.8% correct 
+Page 4: score = 68.4% correct 
+Page 5: score = 50.2% correct 
+Page 6: score = 41.7% correct
+Time used: 67.98524165153503 s
+k = 32
+Page 1: score = 94.6% correct
+Page 2: score = 96.0% correct
+Page 3: score = 89.9% correct
+Page 4: score = 68.5% correct
+Page 5: score = 50.4% correct
+Page 6: score = 41.9% correct
+Time used: 67.92693281173706 s
+k = 33
+Page 1: score = 94.5% correct
+Page 2: score = 95.8% correct
+Page 3: score = 90.0% correct
+Page 4: score = 68.6% correct
+Page 5: score = 50.7% correct
+Page 6: score = 42.3% correct
+Time used: 68.2348804473877 s
+k = 34
+Page 1: score = 94.4% correct
+Page 2: score = 95.8% correct
+Page 3: score = 90.0% correct
+Page 4: score = 68.7% correct
+Page 5: score = 50.7% correct
+Page 6: score = 42.4% correct
+Time used: 68.62496423721313 s
+k = 35
+Page 1: score = 94.4% correct
+Page 2: score = 95.6% correct 
+Page 3: score = 90.1% correct 
+Page 4: score = 69.0% correct 
+Page 5: score = 51.1% correct 
+Page 6: score = 42.8% correct 
+Time used: 70.41459345817566 s
+k = 36
+Page 1: score = 94.5% correct
+Page 2: score = 95.6% correct
+Page 3: score = 90.2% correct
+Page 4: score = 69.0% correct
+Page 5: score = 51.2% correct
+Page 6: score = 43.1% correct
+Time used: 69.88170409202576 s
+k = 37
+Page 1: score = 94.2% correct
+Page 2: score = 95.4% correct
+Page 3: score = 90.6% correct
+Page 4: score = 69.2% correct
+Page 5: score = 51.7% correct
+Page 6: score = 43.4% correct
+Time used: 69.57704854011536 s
+k = 38
+Page 1: score = 94.3% correct
+Page 2: score = 95.6% correct
+Page 3: score = 90.3% correct
+Page 4: score = 69.4% correct
+Page 5: score = 51.6% correct
+Page 6: score = 43.5% correct
+Time used: 70.20039939880371 s
+k = 39
+Page 1: score = 94.1% correct
+Page 2: score = 95.5% correct
+Page 3: score = 90.5% correct
+Page 4: score = 69.6% correct
+Page 5: score = 51.9% correct
+Page 6: score = 43.6% correct
+Time used: 70.95489072799683 s
+k = 40
+Page 1: score = 94.1% correct
+Page 2: score = 95.6% correct
+Page 3: score = 90.5% correct
+Page 4: score = 69.8% correct
+Page 5: score = 52.0% correct
+Page 6: score = 43.8% correct
+Time used: 71.30354404449463 s
+k = 41
+Page 1: score = 94.0% correct
+Page 2: score = 95.4% correct
+Page 3: score = 90.5% correct
+Page 4: score = 69.8% correct
+Page 5: score = 51.7% correct
+Page 6: score = 43.9% correct
+Time used: 71.72459030151367 s
+k = 42
+Page 1: score = 94.1% correct
+Page 2: score = 95.4% correct
+Page 3: score = 90.4% correct
+Page 4: score = 69.8% correct
+Page 5: score = 51.7% correct
+Page 6: score = 44.0% correct
+Time used: 71.85296320915222 s
+k = 43
+Page 1: score = 94.0% correct
+Page 2: score = 95.2% correct
+Page 3: score = 90.5% correct
+Page 4: score = 70.1% correct
+Page 5: score = 51.9% correct
+Page 6: score = 44.2% correct
+Time used: 72.07319688796997 s
+k = 44
+Page 1: score = 94.0% correct
+Page 2: score = 95.4% correct
+Page 3: score = 90.6% correct
+Page 4: score = 70.2% correct
+Page 5: score = 52.3% correct
+Page 6: score = 44.4% correct
+Time used: 73.27929878234863 s
+k = 45
+Page 1: score = 93.9% correct
+Page 2: score = 95.3% correct
+Page 3: score = 91.0% correct
+Page 4: score = 70.6% correct
+Page 5: score = 52.4% correct
+Page 6: score = 44.6% correct
+Time used: 72.61031746864319 s
+k = 46
+Page 1: score = 93.8% correct
+Page 2: score = 95.2% correct
+Page 3: score = 90.8% correct
+Page 4: score = 70.5% correct
+Page 5: score = 52.5% correct
+Page 6: score = 44.6% correct
+Time used: 72.7513496875763 s
+k = 47
+Page 1: score = 93.8% correct
+Page 2: score = 95.1% correct
+Page 3: score = 91.0% correct
+Page 4: score = 70.6% correct
+Page 5: score = 52.6% correct
+Page 6: score = 44.9% correct
+Time used: 73.19744968414307 s
+k = 48
+Page 1: score = 93.7% correct
+Page 2: score = 95.2% correct
+Page 3: score = 90.9% correct
+Page 4: score = 70.8% correct
+Page 5: score = 52.6% correct
+Page 6: score = 45.1% correct
+Time used: 73.5535295009613 s
+k = 49
+Page 1: score = 93.8% correct
+Page 2: score = 95.0% correct
+Page 3: score = 91.0% correct
+Page 4: score = 70.9% correct
+Page 5: score = 52.8% correct
+Page 6: score = 45.1% correct
+Time used: 73.89660716056824 s
+k = 50
+Page 1: score = 93.7% correct
+Page 2: score = 95.1% correct
+Page 3: score = 91.1% correct
+Page 4: score = 71.1% correct
+Page 5: score = 52.9% correct
+Page 6: score = 45.2% correct
+Time used: 74.30269813537598 s
+k = 51
+Page 1: score = 93.7% correct
+Page 2: score = 95.0% correct
+Page 3: score = 91.1% correct
+Page 4: score = 71.2% correct
+Page 5: score = 53.1% correct
+Page 6: score = 45.4% correct
+Time used: 74.61076784133911 s
+k = 52
+Page 1: score = 93.7% correct
+Page 2: score = 94.9% correct
+Page 3: score = 91.2% correct
+Page 4: score = 71.3% correct
+Page 5: score = 53.0% correct
+Page 6: score = 45.6% correct
+Time used: 74.93083930015564 s
+k = 53
+Page 1: score = 93.5% correct
+Page 2: score = 94.9% correct
+Page 3: score = 91.2% correct
+Page 4: score = 71.5% correct
+Page 5: score = 53.4% correct
+Page 6: score = 45.5% correct
+Time used: 75.28291869163513 s
+k = 54
+Page 1: score = 93.5% correct
+Page 2: score = 94.8% correct
+Page 3: score = 91.4% correct
+Page 4: score = 71.7% correct
+Page 5: score = 53.5% correct
+Page 6: score = 45.6% correct
+Time used: 76.2320613861084 s
+k = 55
+Page 1: score = 93.4% correct
+Page 2: score = 94.8% correct
+Page 3: score = 91.4% correct
+Page 4: score = 71.8% correct
+Page 5: score = 53.1% correct
+Page 6: score = 45.8% correct
+Time used: 76.63022112846375 s
+k = 56
+Page 1: score = 93.3% correct
+Page 2: score = 94.8% correct
+Page 3: score = 91.6% correct
+Page 4: score = 71.8% correct
+Page 5: score = 53.1% correct
+Page 6: score = 46.2% correct
+Time used: 76.57020688056946 s
+k = 57
+Page 1: score = 93.2% correct
+Page 2: score = 94.8% correct
+Page 3: score = 92.0% correct
+Page 4: score = 71.9% correct
+Page 5: score = 53.4% correct
+Page 6: score = 46.2% correct
+Time used: 77.02831077575684 s
+k = 58
+Page 1: score = 93.1% correct
+Page 2: score = 94.8% correct
+Page 3: score = 91.8% correct
+Page 4: score = 72.4% correct
+Page 5: score = 53.5% correct
+Page 6: score = 46.2% correct
+Time used: 77.47841143608093 s
+k = 59
+Page 1: score = 92.9% correct
+Page 2: score = 94.8% correct
+Page 3: score = 92.1% correct
+Page 4: score = 72.6% correct
+Page 5: score = 53.8% correct
+Page 6: score = 46.5% correct
+Time used: 77.77347731590271 s
+k = 60
+Page 1: score = 92.9% correct
+Page 2: score = 94.8% correct
+Page 3: score = 91.9% correct
+Page 4: score = 72.5% correct
+Page 5: score = 53.9% correct
+Page 6: score = 46.4% correct
+Time used: 78.06954526901245 s
+k = 61
+Page 1: score = 92.8% correct
+Page 2: score = 94.6% correct
+Page 3: score = 92.0% correct
+Page 4: score = 72.5% correct
+Page 5: score = 54.1% correct
+Page 6: score = 46.4% correct
+Time used: 78.36230683326721 s
+k = 62
+Page 1: score = 92.8% correct
+Page 2: score = 94.5% correct
+Page 3: score = 92.1% correct
+Page 4: score = 72.4% correct
+Page 5: score = 54.2% correct
+Page 6: score = 46.6% correct
+Time used: 78.75369763374329 s
+k = 63
+Page 1: score = 92.7% correct
+Page 2: score = 94.4% correct
+Page 3: score = 91.9% correct
+Page 4: score = 72.7% correct
+Page 5: score = 54.4% correct
+Page 6: score = 46.9% correct
+Time used: 79.45685958862305 s
+k = 64
+Page 1: score = 92.5% correct
+Page 2: score = 94.1% correct
+Page 3: score = 91.8% correct
+Page 4: score = 72.8% correct
+Page 5: score = 54.7% correct
+Page 6: score = 47.1% correct
+Time used: 79.61616086959839 s
+k = 65
+Page 1: score = 92.7% correct
+Page 2: score = 94.1% correct
+Page 3: score = 91.7% correct
+Page 4: score = 73.0% correct
+Page 5: score = 54.9% correct
+Page 6: score = 47.1% correct
+Time used: 80.08299779891968 s
+k = 66
+Page 1: score = 92.6% correct
+Page 2: score = 94.0% correct
+Page 3: score = 91.5% correct
+Page 4: score = 73.2% correct
+Page 5: score = 55.6% correct
+Page 6: score = 47.0% correct
+Time used: 80.66212773323059 s
+k = 67
+Page 1: score = 92.6% correct
+Page 2: score = 93.8% correct
+Page 3: score = 91.8% correct
+Page 4: score = 73.3% correct
+Page 5: score = 55.7% correct
+Page 6: score = 47.0% correct
+Time used: 80.96419501304626 s
+k = 68
+Page 1: score = 92.6% correct
+Page 2: score = 94.0% correct
+Page 3: score = 91.9% correct
+Page 4: score = 73.2% correct
+Page 5: score = 55.7% correct
+Page 6: score = 47.4% correct
+Time used: 81.040212392807 s
+k = 69
+Page 1: score = 92.5% correct
+Page 2: score = 93.8% correct
+Page 3: score = 91.9% correct
+Page 4: score = 73.6% correct
+Page 5: score = 55.9% correct
+Page 6: score = 47.1% correct
+Time used: 81.5863344669342 s
+k = 70
+Page 1: score = 92.4% correct
+Page 2: score = 93.8% correct
+Page 3: score = 91.8% correct
+Page 4: score = 73.5% correct
+Page 5: score = 56.2% correct
+Page 6: score = 47.0% correct
+Time used: 81.82838988304138 s
+k = 71
+Page 1: score = 92.3% correct
+Page 2: score = 93.6% correct
+Page 3: score = 91.8% correct
+Page 4: score = 73.8% correct
+Page 5: score = 56.0% correct
+Page 6: score = 47.4% correct
+Time used: 82.55955410003662 s
+k = 72
+Page 1: score = 92.3% correct
+Page 2: score = 93.8% correct
+Page 3: score = 91.9% correct
+Page 4: score = 73.7% correct
+Page 5: score = 56.2% correct
+Page 6: score = 47.6% correct
+Time used: 82.64657282829285 s
+k = 73
+Page 1: score = 91.9% correct
+Page 2: score = 93.6% correct
+Page 3: score = 91.9% correct
+Page 4: score = 73.9% correct
+Page 5: score = 56.3% correct
+Page 6: score = 47.9% correct
+Time used: 83.30372047424316 s
+k = 74
+Page 1: score = 91.9% correct
+Page 2: score = 93.5% correct
+Page 3: score = 92.0% correct
+Page 4: score = 74.1% correct
+Page 5: score = 56.2% correct
+Page 6: score = 47.7% correct
+Time used: 83.7118124961853 s
+k = 75
+Page 1: score = 91.6% correct
+Page 2: score = 93.5% correct
+Page 3: score = 92.1% correct
+Page 4: score = 73.9% correct
+Page 5: score = 56.2% correct
+Page 6: score = 47.8% correct
+Time used: 84.00587892532349 s
+k = 76
+Page 1: score = 91.6% correct
+Page 2: score = 93.5% correct
+Page 3: score = 92.2% correct
+Page 4: score = 74.0% correct
+Page 5: score = 56.3% correct
+Page 6: score = 48.1% correct
+Time used: 84.9690957069397 s
+k = 77
+Page 1: score = 91.6% correct
+Page 2: score = 93.5% correct
+Page 3: score = 92.0% correct
+Page 4: score = 74.2% correct
+Page 5: score = 56.3% correct
+Page 6: score = 48.2% correct
+Time used: 84.8450665473938 s
+k = 78
+Page 1: score = 91.5% correct
+Page 2: score = 93.4% correct
+Page 3: score = 92.2% correct
+Page 4: score = 74.0% correct
+Page 5: score = 56.4% correct
+Page 6: score = 48.2% correct
+Time used: 84.97009539604187 s
+k = 79
+Page 1: score = 91.4% correct
+Page 2: score = 93.4% correct
+Page 3: score = 92.2% correct
+Page 4: score = 74.2% correct
+Page 5: score = 56.6% correct
+Page 6: score = 48.0% correct
+Time used: 85.47821021080017 s
+k = 80
+Page 1: score = 91.2% correct
+Page 2: score = 93.4% correct
+Page 3: score = 92.3% correct
+Page 4: score = 74.2% correct
+Page 5: score = 57.0% correct
+Page 6: score = 48.3% correct
+Time used: 85.97232007980347 s
+k = 81
+Page 1: score = 91.3% correct
+Page 2: score = 93.4% correct
+Page 3: score = 92.1% correct
+Page 4: score = 74.5% correct
+Page 5: score = 57.1% correct
+Page 6: score = 48.3% correct
+Time used: 86.39241552352905 s
+k = 82
+Page 1: score = 91.3% correct
+Page 2: score = 93.5% correct
+Page 3: score = 92.1% correct
+Page 4: score = 74.4% correct
+Page 5: score = 57.3% correct
+Page 6: score = 48.3% correct
+Time used: 86.70048379898071 s
+k = 83
+Page 1: score = 91.2% correct
+Page 2: score = 93.3% correct
+Page 3: score = 91.8% correct
+Page 4: score = 74.2% correct
+Page 5: score = 57.1% correct
+Page 6: score = 48.5% correct
+Time used: 87.17058944702148 s
+k = 84
+Page 1: score = 90.9% correct
+Page 2: score = 93.3% correct
+Page 3: score = 91.7% correct
+Page 4: score = 74.2% correct
+Page 5: score = 57.3% correct
+Page 6: score = 48.8% correct
+Time used: 87.54067349433899 s
+k = 85
+Page 1: score = 90.9% correct
+Page 2: score = 93.2% correct
+Page 3: score = 91.7% correct
+Page 4: score = 74.2% correct
+Page 5: score = 57.3% correct
+Page 6: score = 48.7% correct
+Time used: 88.29284191131592 s
+k = 86
+Page 1: score = 90.9% correct
+Page 2: score = 93.3% correct
+Page 3: score = 91.6% correct
+Page 4: score = 74.3% correct
+Page 5: score = 57.4% correct
+Page 6: score = 48.7% correct
+Time used: 88.61691570281982 s
+k = 87
+Page 1: score = 90.9% correct
+Page 2: score = 93.1% correct
+Page 3: score = 91.7% correct
+Page 4: score = 74.4% correct
+Page 5: score = 57.6% correct
+Page 6: score = 48.8% correct
+Time used: 88.91998338699341 s
+k = 88
+Page 1: score = 90.9% correct
+Page 2: score = 93.2% correct
+Page 3: score = 91.9% correct
+Page 4: score = 74.6% correct
+Page 5: score = 57.6% correct
+Page 6: score = 48.8% correct
+Time used: 89.20304584503174 s
+k = 89
+Page 1: score = 90.7% correct
+Page 2: score = 93.2% correct
+Page 3: score = 91.7% correct
+Page 4: score = 74.7% correct
+Page 5: score = 57.7% correct
+Page 6: score = 49.0% correct
+Time used: 89.67715263366699 s
+k = 90
+Page 1: score = 90.6% correct
+Page 2: score = 93.2% correct
+Page 3: score = 91.7% correct
+Page 4: score = 74.8% correct
+Page 5: score = 58.0% correct
+Page 6: score = 49.1% correct
+Time used: 89.97021961212158 s
+k = 91
+Page 1: score = 90.5% correct
+Page 2: score = 93.2% correct
+Page 3: score = 91.6% correct
+Page 4: score = 75.0% correct
+Page 5: score = 57.7% correct
+Page 6: score = 49.1% correct
+Time used: 90.32830023765564 s
+k = 92
+Page 1: score = 90.3% correct
+Page 2: score = 93.4% correct
+Page 3: score = 91.8% correct
+Page 4: score = 75.2% correct
+Page 5: score = 57.9% correct
+Page 6: score = 49.1% correct
+Time used: 90.81240940093994 s
+k = 93
+Page 1: score = 90.4% correct
+Page 2: score = 93.3% correct
+Page 3: score = 91.8% correct
+Page 4: score = 75.4% correct
+Page 5: score = 58.2% correct
+Page 6: score = 49.0% correct
+Time used: 91.02145552635193 s
+k = 94
+Page 1: score = 90.3% correct
+Page 2: score = 93.3% correct
+Page 3: score = 91.8% correct
+Page 4: score = 75.4% correct
+Page 5: score = 58.3% correct
+Page 6: score = 49.3% correct
+Time used: 91.41454362869263 s
+k = 95
+Page 1: score = 90.2% correct
+Page 2: score = 93.2% correct
+Page 3: score = 91.7% correct
+Page 4: score = 75.5% correct
+Page 5: score = 58.3% correct
+Page 6: score = 49.5% correct
+Time used: 91.94666314125061 s
+k = 96
+Page 1: score = 90.1% correct
+Page 2: score = 92.8% correct
+Page 3: score = 91.7% correct
+Page 4: score = 75.5% correct
+Page 5: score = 58.2% correct
+Page 6: score = 49.8% correct
+Time used: 92.45177721977234 s
+k = 97
+Page 1: score = 90.0% correct
+Page 2: score = 92.6% correct
+Page 3: score = 91.5% correct
+Page 4: score = 75.4% correct
+Page 5: score = 58.4% correct
+Page 6: score = 50.0% correct
+Time used: 92.83586263656616 s
+k = 98
+Page 1: score = 90.2% correct
+Page 2: score = 92.5% correct
+Page 3: score = 91.4% correct
+Page 4: score = 75.4% correct
+Page 5: score = 58.6% correct
+Page 6: score = 49.9% correct
+Time used: 93.04090881347656 s
+k = 99
+Page 1: score = 90.2% correct
+Page 2: score = 92.5% correct
+Page 3: score = 91.4% correct
+Page 4: score = 75.4% correct
+Page 5: score = 58.4% correct
+Page 6: score = 49.9% correct
+Time used: 93.29496669769287 s
+k = 100
+Page 1: score = 90.2% correct
+Page 2: score = 92.4% correct
+Page 3: score = 91.3% correct
+Page 4: score = 75.5% correct
+Page 5: score = 58.5% correct
+Page 6: score = 49.8% correct
+Time used: 94.75230693817139 s
+k = 101
+Page 1: score = 90.0% correct
+Page 2: score = 92.3% correct
+Page 3: score = 91.5% correct
+Page 4: score = 75.5% correct
+Page 5: score = 58.7% correct
+Page 6: score = 49.8% correct
+Time used: 94.39121174812317 s
+k = 102
+Page 1: score = 89.9% correct
+Page 2: score = 92.3% correct
+Page 3: score = 91.4% correct
+Page 4: score = 75.6% correct
+Page 5: score = 58.9% correct
+Page 6: score = 49.9% correct
+Time used: 94.66046977043152 s
+k = 103
+Page 1: score = 89.8% correct
+Page 2: score = 92.2% correct
+Page 3: score = 91.4% correct
+Page 4: score = 75.6% correct
+Page 5: score = 59.1% correct
+Page 6: score = 50.0% correct
+Time used: 95.06936573982239 s
+k = 104
+Page 1: score = 89.7% correct
+Page 2: score = 92.2% correct
+Page 3: score = 91.3% correct
+Page 4: score = 75.5% correct
+Page 5: score = 59.0% correct
+Page 6: score = 50.1% correct
+Time used: 95.1183762550354 s
+k = 105
+Page 1: score = 89.7% correct
+Page 2: score = 92.2% correct
+Page 3: score = 91.3% correct
+Page 4: score = 75.6% correct
+Page 5: score = 58.9% correct
+Page 6: score = 50.2% correct
+Time used: 95.80753064155579 s
+k = 106
+Page 1: score = 89.7% correct
+Page 2: score = 92.1% correct
+Page 3: score = 91.3% correct
+Page 4: score = 75.6% correct
+Page 5: score = 59.0% correct
+Page 6: score = 50.0% correct
+Time used: 95.86554408073425 s
+k = 107
+Page 1: score = 89.6% correct
+Page 2: score = 92.3% correct
+Page 3: score = 91.2% correct
+Page 4: score = 75.5% correct
+Page 5: score = 58.9% correct
+Page 6: score = 50.0% correct
+Time used: 96.42766952514648 s
+k = 108
+Page 1: score = 89.5% correct
+Page 2: score = 92.3% correct
+Page 3: score = 91.1% correct
+Page 4: score = 75.6% correct
+Page 5: score = 59.0% correct
+Page 6: score = 50.0% correct
+Time used: 96.75874447822571 s
+k = 109
+Page 1: score = 89.4% correct
+Page 2: score = 92.2% correct
+Page 3: score = 91.2% correct
+Page 4: score = 75.4% correct
+Page 5: score = 59.1% correct
+Page 6: score = 49.9% correct
+Time used: 97.01080131530762 s
+k = 110
+Page 1: score = 89.1% correct
+Page 2: score = 92.2% correct
+Page 3: score = 91.1% correct
+Page 4: score = 75.4% correct
+Page 5: score = 59.3% correct
+Page 6: score = 49.8% correct
+Time used: 97.46290254592896 s
+k = 111
+Page 1: score = 89.1% correct
+Page 2: score = 92.2% correct
+Page 3: score = 91.1% correct
+Page 4: score = 75.3% correct
+Page 5: score = 59.4% correct
+Page 6: score = 50.0% correct
+Time used: 97.86899399757385 s
+k = 112
+Page 1: score = 89.1% correct
+Page 2: score = 92.2% correct
+Page 3: score = 91.0% correct
+Page 4: score = 75.4% correct
+Page 5: score = 59.6% correct
+Page 6: score = 49.8% correct
+Time used: 98.1626181602478 s
+k = 113
+Page 1: score = 88.8% correct
+Page 2: score = 92.1% correct
+Page 3: score = 90.8% correct
+Page 4: score = 75.4% correct
+Page 5: score = 59.8% correct
+Page 6: score = 49.9% correct
+Time used: 98.70318484306335 s
+k = 114
+Page 1: score = 88.9% correct
+Page 2: score = 92.0% correct
+Page 3: score = 90.8% correct
+Page 4: score = 75.4% correct
+Page 5: score = 60.0% correct
+Page 6: score = 49.9% correct
+Time used: 99.9809205532074 s
+k = 115
+Page 1: score = 88.9% correct
+Page 2: score = 92.0% correct
+Page 3: score = 90.7% correct
+Page 4: score = 75.4% correct
+Page 5: score = 60.1% correct
+Page 6: score = 50.2% correct
+Time used: 99.70237636566162 s
+k = 116
+Page 1: score = 88.7% correct
+Page 2: score = 91.8% correct
+Page 3: score = 90.8% correct
+Page 4: score = 75.4% correct
+Page 5: score = 60.1% correct
+Page 6: score = 50.0% correct
+Time used: 99.90245175361633 s
+k = 117
+Page 1: score = 88.7% correct
+Page 2: score = 91.7% correct
+Page 3: score = 90.8% correct
+Page 4: score = 75.3% correct
+Page 5: score = 60.2% correct
+Page 6: score = 50.1% correct
+Time used: 100.50558543205261 s
+k = 118
+Page 1: score = 88.8% correct
+Page 2: score = 92.0% correct
+Page 3: score = 91.1% correct
+Page 4: score = 75.5% correct
+Page 5: score = 60.5% correct
+Page 6: score = 50.4% correct
+Time used: 101.1247251033783 s
+k = 119
+Page 1: score = 88.7% correct
+Page 2: score = 91.7% correct
+Page 3: score = 91.1% correct
+Page 4: score = 75.6% correct
+Page 5: score = 60.7% correct
+Page 6: score = 50.5% correct
+Time used: 101.13972854614258 s
+k = 120
+Page 1: score = 88.7% correct
+Page 2: score = 91.5% correct
+Page 3: score = 91.3% correct
+Page 4: score = 75.6% correct
+Page 5: score = 60.5% correct
+Page 6: score = 50.3% correct
+Time used: 101.40978980064392 s
+k = 121
+Page 1: score = 88.7% correct
+Page 2: score = 91.6% correct
+Page 3: score = 91.2% correct
+Page 4: score = 76.0% correct
+Page 5: score = 60.7% correct
+Page 6: score = 50.6% correct
+Time used: 101.66968178749084 s
+k = 122
+Page 1: score = 88.7% correct
+Page 2: score = 91.4% correct
+Page 3: score = 91.2% correct
+Page 4: score = 76.0% correct
+Page 5: score = 60.6% correct
+Page 6: score = 50.6% correct
+Time used: 101.92390465736389 s
+k = 123
+Page 1: score = 88.7% correct
+Page 2: score = 91.4% correct
+Page 3: score = 91.1% correct
+Page 4: score = 75.8% correct
+Page 5: score = 60.7% correct
+Page 6: score = 51.1% correct
+Time used: 102.62006115913391 s
+k = 124
+Page 1: score = 88.9% correct
+Page 2: score = 91.4% correct
+Page 3: score = 91.1% correct
+Page 4: score = 76.1% correct
+Page 5: score = 61.0% correct
+Page 6: score = 51.3% correct
+Time used: 103.09916949272156 s
+k = 125
+Page 1: score = 88.5% correct
+Page 2: score = 91.3% correct
+Page 3: score = 91.0% correct
+Page 4: score = 76.0% correct
+Page 5: score = 61.2% correct
+Page 6: score = 51.3% correct
+Time used: 104.16240811347961 s
+k = 126
+Page 1: score = 88.5% correct
+Page 2: score = 91.2% correct
+Page 3: score = 91.2% correct
+Page 4: score = 75.8% correct
+Page 5: score = 61.2% correct
+Page 6: score = 51.2% correct
+Time used: 103.73131227493286 s
+k = 127
+Page 1: score = 88.5% correct
+Page 2: score = 91.3% correct
+Page 3: score = 91.2% correct
+Page 4: score = 75.8% correct
+Page 5: score = 61.6% correct
+Page 6: score = 51.4% correct
+Time used: 104.07438921928406 s
+k = 128
+Page 1: score = 88.4% correct
+Page 2: score = 91.2% correct
+Page 3: score = 91.3% correct
+Page 4: score = 76.0% correct
+Page 5: score = 61.5% correct
+Page 6: score = 51.3% correct
+Time used: 104.55549573898315 s
+k = 129
+Page 1: score = 88.4% correct
+Page 2: score = 91.1% correct
+Page 3: score = 90.9% correct
+Page 4: score = 76.0% correct
+Page 5: score = 61.7% correct
+Page 6: score = 51.5% correct
+Time used: 104.85456347465515 s
+k = 130
+Page 1: score = 88.3% correct
+Page 2: score = 90.9% correct
+Page 3: score = 91.0% correct
+Page 4: score = 76.1% correct
+Page 5: score = 61.6% correct
+Page 6: score = 51.3% correct
+Time used: 105.27565908432007 s
+k = 131
+Page 1: score = 88.5% correct
+Page 2: score = 90.8% correct
+Page 3: score = 90.9% correct
+Page 4: score = 76.1% correct
+Page 5: score = 62.0% correct
+Page 6: score = 51.3% correct
+Time used: 105.66474628448486 s
+k = 132
+Page 1: score = 88.4% correct
+Page 2: score = 90.8% correct
+Page 3: score = 90.9% correct
+Page 4: score = 75.9% correct
+Page 5: score = 62.1% correct
+Page 6: score = 51.5% correct
+Time used: 106.14685392379761 s
+k = 133
+Page 1: score = 88.4% correct
+Page 2: score = 90.6% correct
+Page 3: score = 90.8% correct
+Page 4: score = 75.9% correct
+Page 5: score = 62.1% correct
+Page 6: score = 51.6% correct
+Time used: 106.53794264793396 s
+k = 134
+Page 1: score = 88.4% correct
+Page 2: score = 90.6% correct
+Page 3: score = 90.8% correct
+Page 4: score = 75.9% correct
+Page 5: score = 62.2% correct
+Page 6: score = 51.6% correct
+Time used: 106.95603585243225 s
+k = 135
+Page 1: score = 88.2% correct
+Page 2: score = 90.7% correct
+Page 3: score = 91.0% correct
+Page 4: score = 76.2% correct
+Page 5: score = 62.1% correct
+Page 6: score = 51.5% correct
+Time used: 107.22809743881226 s
+k = 136
+Page 1: score = 88.2% correct
+Page 2: score = 90.4% correct
+Page 3: score = 91.0% correct
+Page 4: score = 76.1% correct
+Page 5: score = 61.9% correct
+Page 6: score = 51.7% correct
+Time used: 107.631187915802 s
+k = 137
+Page 1: score = 88.2% correct
+Page 2: score = 90.5% correct
+Page 3: score = 91.1% correct
+Page 4: score = 76.1% correct
+Page 5: score = 61.9% correct
+Page 6: score = 51.9% correct
+Time used: 108.12729930877686 s
+k = 138
+Page 1: score = 88.1% correct
+Page 2: score = 90.5% correct
+Page 3: score = 90.8% correct
+Page 4: score = 76.4% correct
+Page 5: score = 61.9% correct
+Page 6: score = 52.0% correct
+Time used: 108.52938985824585 s
+k = 139
+Page 1: score = 88.0% correct
+Page 2: score = 90.4% correct
+Page 3: score = 90.7% correct
+Page 4: score = 76.4% correct
+Page 5: score = 62.3% correct
+Page 6: score = 52.0% correct
+Time used: 109.1825361251831 s
+k = 140
+Page 1: score = 88.2% correct
+Page 2: score = 90.4% correct
+Page 3: score = 90.9% correct
+Page 4: score = 76.5% correct
+Page 5: score = 62.3% correct
+Page 6: score = 52.0% correct
+Time used: 109.0695116519928 s
+k = 141
+Page 1: score = 88.1% correct
+Page 2: score = 90.3% correct
+Page 3: score = 90.8% correct
+Page 4: score = 76.5% correct
+Page 5: score = 62.3% correct
+Page 6: score = 51.7% correct
+Time used: 109.30156326293945 s
+k = 142
+Page 1: score = 88.0% correct
+Page 2: score = 90.3% correct
+Page 3: score = 90.7% correct
+Page 4: score = 76.4% correct
+Page 5: score = 62.3% correct
+Page 6: score = 51.9% correct
+Time used: 110.02372550964355 s
+k = 143
+Page 1: score = 87.8% correct
+Page 2: score = 90.1% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.7% correct
+Page 5: score = 62.4% correct
+Page 6: score = 51.7% correct
+Time used: 110.45582246780396 s
+k = 144
+Page 1: score = 87.8% correct
+Page 2: score = 90.2% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.8% correct
+Page 5: score = 62.4% correct
+Page 6: score = 51.7% correct
+Time used: 110.6258614063263 s
+k = 145
+Page 1: score = 87.7% correct
+Page 2: score = 90.2% correct
+Page 3: score = 90.5% correct
+Page 4: score = 76.6% correct
+Page 5: score = 62.3% correct
+Page 6: score = 51.7% correct
+Time used: 111.02895140647888 s
+k = 146
+Page 1: score = 87.9% correct
+Page 2: score = 90.2% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.3% correct
+Page 5: score = 62.5% correct
+Page 6: score = 51.9% correct
+Time used: 111.40503644943237 s
+k = 147
+Page 1: score = 87.9% correct
+Page 2: score = 90.0% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.3% correct
+Page 5: score = 62.6% correct
+Page 6: score = 51.8% correct
+Time used: 111.98616671562195 s
+k = 148
+Page 1: score = 87.8% correct
+Page 2: score = 90.0% correct
+Page 3: score = 90.3% correct
+Page 4: score = 76.0% correct
+Page 5: score = 62.7% correct
+Page 6: score = 51.9% correct
+Time used: 112.25322651863098 s
+k = 149
+Page 1: score = 87.7% correct
+Page 2: score = 90.0% correct
+Page 3: score = 90.5% correct
+Page 4: score = 76.2% correct
+Page 5: score = 62.4% correct
+Page 6: score = 51.9% correct
+Time used: 112.71733069419861 s
+k = 150
+Page 1: score = 87.7% correct
+Page 2: score = 90.0% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.3% correct
+Page 5: score = 62.4% correct
+Page 6: score = 51.9% correct
+Time used: 113.0594072341919 s
+k = 151
+Page 1: score = 87.7% correct
+Page 2: score = 90.1% correct
+Page 3: score = 90.8% correct
+Page 4: score = 76.2% correct
+Page 5: score = 62.4% correct
+Page 6: score = 51.8% correct
+Time used: 113.50050640106201 s
+k = 152
+Page 1: score = 87.7% correct
+Page 2: score = 90.1% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.4% correct
+Page 5: score = 62.6% correct
+Page 6: score = 51.9% correct
+Time used: 113.78957200050354 s
+k = 153
+Page 1: score = 87.6% correct
+Page 2: score = 90.0% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.5% correct
+Page 5: score = 62.2% correct
+Page 6: score = 52.1% correct
+Time used: 114.29468512535095 s
+k = 154
+Page 1: score = 87.5% correct
+Page 2: score = 89.9% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.5% correct
+Page 5: score = 62.4% correct
+Page 6: score = 52.2% correct
+Time used: 114.43971800804138 s
+k = 155
+Page 1: score = 87.6% correct
+Page 2: score = 90.0% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.3% correct
+Page 5: score = 62.6% correct
+Page 6: score = 52.3% correct
+Time used: 115.8330295085907 s
+k = 156
+Page 1: score = 87.6% correct
+Page 2: score = 89.9% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.3% correct
+Page 5: score = 62.5% correct
+Page 6: score = 52.1% correct
+Time used: 115.3267776966095 s
+k = 157
+Page 1: score = 87.5% correct
+Page 2: score = 89.8% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.5% correct
+Page 5: score = 62.7% correct
+Page 6: score = 52.2% correct
+Time used: 115.68199729919434 s
+k = 158
+Page 1: score = 87.4% correct
+Page 2: score = 89.8% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.4% correct
+Page 5: score = 62.7% correct
+Page 6: score = 52.3% correct
+Time used: 116.07408499717712 s
+k = 159
+Page 1: score = 87.5% correct
+Page 2: score = 89.9% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.5% correct
+Page 5: score = 62.7% correct
+Page 6: score = 52.4% correct
+Time used: 116.7122278213501 s
+k = 160
+Page 1: score = 87.4% correct
+Page 2: score = 89.8% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.6% correct
+Page 5: score = 62.9% correct
+Page 6: score = 52.5% correct
+Time used: 117.15332841873169 s
+k = 161
+Page 1: score = 87.5% correct
+Page 2: score = 89.7% correct
+Page 3: score = 90.3% correct
+Page 4: score = 76.6% correct
+Page 5: score = 62.9% correct
+Page 6: score = 52.6% correct
+Time used: 117.21334147453308 s
+k = 162
+Page 1: score = 87.5% correct
+Page 2: score = 89.6% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.6% correct
+Page 5: score = 63.2% correct
+Page 6: score = 52.6% correct
+Time used: 117.55741834640503 s
+k = 163
+Page 1: score = 87.5% correct
+Page 2: score = 89.5% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.7% correct
+Page 5: score = 63.2% correct
+Page 6: score = 52.7% correct
+Time used: 118.44961905479431 s
+k = 164
+Page 1: score = 87.5% correct
+Page 2: score = 89.4% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.5% correct
+Page 5: score = 63.3% correct
+Page 6: score = 52.9% correct
+Time used: 118.38660526275635 s
+k = 165
+Page 1: score = 87.5% correct
+Page 2: score = 89.2% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.4% correct
+Page 5: score = 63.1% correct
+Page 6: score = 52.9% correct
+Time used: 119.70490169525146 s
+k = 166
+Page 1: score = 87.4% correct
+Page 2: score = 89.1% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.3% correct
+Page 5: score = 63.2% correct
+Page 6: score = 53.2% correct
+Time used: 120.11959934234619 s
+k = 167
+Page 1: score = 87.4% correct
+Page 2: score = 88.9% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.2% correct
+Page 5: score = 63.3% correct
+Page 6: score = 53.1% correct
+Time used: 120.29448246955872 s
+k = 168
+Page 1: score = 87.3% correct
+Page 2: score = 89.1% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.4% correct
+Page 5: score = 63.3% correct
+Page 6: score = 53.3% correct
+Time used: 120.70912647247314 s
+k = 169
+Page 1: score = 87.3% correct
+Page 2: score = 89.0% correct
+Page 3: score = 90.7% correct
+Page 4: score = 76.5% correct
+Page 5: score = 63.3% correct
+Page 6: score = 53.1% correct
+Time used: 121.33426713943481 s
+k = 170
+Page 1: score = 87.2% correct
+Page 2: score = 89.0% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.4% correct
+Page 5: score = 63.1% correct
+Page 6: score = 53.5% correct
+Time used: 121.55131697654724 s
+k = 171
+Page 1: score = 87.3% correct
+Page 2: score = 89.0% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.1% correct
+Page 5: score = 62.9% correct
+Page 6: score = 53.6% correct
+Time used: 121.78236842155457 s
+k = 172
+Page 1: score = 87.2% correct
+Page 2: score = 88.9% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.2% correct
+Page 5: score = 63.3% correct
+Page 6: score = 53.5% correct
+Time used: 122.25147366523743 s
+k = 173
+Page 1: score = 87.0% correct
+Page 2: score = 88.8% correct
+Page 3: score = 90.7% correct
+Page 4: score = 76.2% correct
+Page 5: score = 63.4% correct
+Page 6: score = 53.6% correct
+Time used: 122.51753377914429 s
+k = 174
+Page 1: score = 87.1% correct
+Page 2: score = 88.8% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.5% correct
+Page 5: score = 63.5% correct
+Page 6: score = 53.5% correct
+Time used: 123.21969103813171 s
+k = 175
+Page 1: score = 87.2% correct
+Page 2: score = 88.6% correct
+Page 3: score = 90.7% correct
+Page 4: score = 76.7% correct
+Page 5: score = 63.6% correct
+Page 6: score = 53.5% correct
+Time used: 123.19868731498718 s
+k = 176
+Page 1: score = 87.1% correct
+Page 2: score = 88.6% correct
+Page 3: score = 90.6% correct
+Page 4: score = 76.7% correct
+Page 5: score = 63.4% correct
+Page 6: score = 53.5% correct
+Time used: 123.88184022903442 s
+k = 177
+Page 1: score = 87.1% correct
+Page 2: score = 88.6% correct
+Page 3: score = 90.4% correct
+Page 4: score = 76.9% correct
+Page 5: score = 63.4% correct
+Page 6: score = 53.6% correct
+Time used: 124.33994340896606 s
+k = 178
+Page 1: score = 87.1% correct
+Page 2: score = 88.6% correct
+Page 3: score = 90.3% correct
+Page 4: score = 77.0% correct
+Page 5: score = 63.4% correct
+Page 6: score = 53.7% correct
+Time used: 124.53798747062683 s
+k = 179
+Page 1: score = 87.1% correct
+Page 2: score = 88.5% correct
+Page 3: score = 90.2% correct
+Page 4: score = 77.1% correct
+Page 5: score = 63.5% correct
+Page 6: score = 53.9% correct
+Time used: 124.6810188293457 s
+k = 180
+Page 1: score = 87.2% correct
+Page 2: score = 88.5% correct
+Page 3: score = 90.2% correct
+Page 4: score = 77.1% correct
+Page 5: score = 63.3% correct
+Page 6: score = 53.8% correct
+Time used: 125.33016514778137 s
+k = 181
+Page 1: score = 86.9% correct
+Page 2: score = 88.4% correct
+Page 3: score = 90.1% correct
+Page 4: score = 77.0% correct
+Page 5: score = 63.2% correct
+Page 6: score = 53.6% correct
+Time used: 125.6482367515564 s
+k = 182
+Page 1: score = 86.9% correct
+Page 2: score = 88.4% correct
+Page 3: score = 90.2% correct
+Page 4: score = 77.1% correct
+Page 5: score = 63.3% correct
+Page 6: score = 53.6% correct
+Time used: 126.15134930610657 s
+k = 183
+Page 1: score = 86.8% correct
+Page 2: score = 88.2% correct
+Page 3: score = 89.9% correct
+Page 4: score = 76.9% correct
+Page 5: score = 63.6% correct
+Page 6: score = 53.9% correct
+Time used: 126.37239956855774 s
+k = 184
+Page 1: score = 86.7% correct
+Page 2: score = 88.2% correct
+Page 3: score = 89.8% correct
+Page 4: score = 77.0% correct
+Page 5: score = 63.6% correct
+Page 6: score = 53.8% correct
+Time used: 126.5164315700531 s
+k = 185
+Page 1: score = 86.7% correct
+Page 2: score = 88.3% correct
+Page 3: score = 89.8% correct
+Page 4: score = 77.0% correct
+Page 5: score = 63.5% correct
+Page 6: score = 53.9% correct
+Time used: 126.97053360939026 s
+k = 186
+Page 1: score = 86.6% correct
+Page 2: score = 88.1% correct
+Page 3: score = 90.0% correct
+Page 4: score = 77.4% correct
+Page 5: score = 63.6% correct
+Page 6: score = 54.1% correct
+Time used: 127.57266902923584 s
+k = 187
+Page 1: score = 86.5% correct
+Page 2: score = 87.9% correct
+Page 3: score = 89.7% correct
+Page 4: score = 77.2% correct
+Page 5: score = 63.4% correct
+Page 6: score = 54.4% correct
+Time used: 127.64768600463867 s
+k = 188
+Page 1: score = 86.3% correct
+Page 2: score = 87.9% correct
+Page 3: score = 89.7% correct
+Page 4: score = 77.3% correct
+Page 5: score = 63.5% correct
+Page 6: score = 54.2% correct
+Time used: 128.19681072235107 s
+k = 189
+Page 1: score = 86.3% correct
+Page 2: score = 88.1% correct
+Page 3: score = 89.6% correct
+Page 4: score = 77.1% correct
+Page 5: score = 63.3% correct
+Page 6: score = 54.3% correct
+Time used: 128.44486570358276 s
+k = 190
+Page 1: score = 86.1% correct
+Page 2: score = 87.8% correct
+Page 3: score = 89.6% correct
+Page 4: score = 77.2% correct
+Page 5: score = 63.5% correct
+Page 6: score = 54.3% correct
+Time used: 128.94597816467285 s
+k = 191
+Page 1: score = 86.2% correct
+Page 2: score = 87.7% correct
+Page 3: score = 89.6% correct
+Page 4: score = 77.2% correct
+Page 5: score = 63.4% correct
+Page 6: score = 54.3% correct
+Time used: 129.21303796768188 s
+k = 192
+Page 1: score = 85.9% correct
+Page 2: score = 87.6% correct
+Page 3: score = 89.7% correct
+Page 4: score = 77.3% correct
+Page 5: score = 63.5% correct
+Page 6: score = 54.3% correct
+Time used: 129.82017517089844 s
+k = 193
+Page 1: score = 85.9% correct
+Page 2: score = 87.7% correct
+Page 3: score = 89.6% correct
+Page 4: score = 77.2% correct
+Page 5: score = 63.6% correct
+Page 6: score = 54.3% correct
+Time used: 130.26527523994446 s
+k = 194
+Page 1: score = 85.9% correct
+Page 2: score = 87.7% correct
+Page 3: score = 89.4% correct
+Page 4: score = 77.4% correct
+Page 5: score = 63.7% correct
+Page 6: score = 54.6% correct
+Time used: 130.5193326473236 s
+k = 195
+Page 1: score = 85.8% correct
+Page 2: score = 87.7% correct
+Page 3: score = 89.1% correct
+Page 4: score = 77.2% correct
+Page 5: score = 64.0% correct
+Page 6: score = 54.5% correct
+Time used: 130.81939935684204 s
+k = 196
+Page 1: score = 85.7% correct
+Page 2: score = 87.7% correct
+Page 3: score = 89.2% correct
+Page 4: score = 77.3% correct
+Page 5: score = 64.2% correct
+Page 6: score = 54.5% correct
+Time used: 131.26649951934814 s
+k = 197
+Page 1: score = 85.7% correct
+Page 2: score = 87.6% correct
+Page 3: score = 89.5% correct
+Page 4: score = 77.3% correct
+Page 5: score = 64.3% correct
+Page 6: score = 54.7% correct
+Time used: 131.7226026058197 s
+k = 198
+Page 1: score = 85.6% correct
+Page 2: score = 87.5% correct
+Page 3: score = 89.3% correct
+Page 4: score = 77.2% correct
+Page 5: score = 64.1% correct
+Page 6: score = 54.6% correct
+Time used: 132.33774065971375 s
+k = 199
+Page 1: score = 85.7% correct
+Page 2: score = 87.4% correct
+Page 3: score = 89.3% correct
+Page 4: score = 77.2% correct
+Page 5: score = 64.0% correct
+Page 6: score = 54.7% correct
+Time used: 132.36474609375 s
+
+
+-----------------------------
+
+
+k = 200
+Page 1: score = 85.6% correct
+Page 2: score = 87.2% correct
+Page 3: score = 89.4% correct
+Page 4: score = 77.1% correct
+Page 5: score = 63.9% correct
+Page 6: score = 54.6% correct
+Time used: 131.74360704421997 s
+k = 210
+Page 1: score = 85.1% correct
+Page 2: score = 86.6% correct
+Page 3: score = 89.3% correct
+Page 4: score = 77.2% correct
+Page 5: score = 63.7% correct
+Page 6: score = 54.8% correct
+Time used: 135.34441661834717 s
+k = 220
+Page 1: score = 84.2% correct
+Page 2: score = 86.1% correct
+Page 3: score = 88.2% correct
+Page 4: score = 76.5% correct
+Page 5: score = 63.7% correct
+Page 6: score = 55.1% correct
+Time used: 139.11226320266724 s
+k = 230
+Page 1: score = 83.6% correct
+Page 2: score = 85.7% correct
+Page 3: score = 87.6% correct
+Page 4: score = 76.9% correct
+Page 5: score = 63.6% correct
+Page 6: score = 55.1% correct
+Time used: 142.97313046455383 s
+k = 240
+Page 1: score = 83.3% correct
+Page 2: score = 85.4% correct
+Page 3: score = 87.4% correct
+Page 4: score = 76.3% correct
+Page 5: score = 64.4% correct
+Page 6: score = 56.0% correct
+Time used: 146.81988191604614 s
+k = 250
+Page 1: score = 83.2% correct
+Page 2: score = 84.9% correct
+Page 3: score = 87.4% correct
+Page 4: score = 76.1% correct
+Page 5: score = 65.0% correct
+Page 6: score = 55.4% correct
+Time used: 150.59784412384033 s
+k = 260
+Page 1: score = 82.5% correct
+Page 2: score = 84.6% correct
+Page 3: score = 87.1% correct
+Page 4: score = 76.4% correct
+Page 5: score = 64.7% correct
+Page 6: score = 55.6% correct
+Time used: 154.26266813278198 s
+k = 270
+Page 1: score = 81.5% correct
+Page 2: score = 84.2% correct
+Page 3: score = 86.7% correct
+Page 4: score = 76.3% correct
+Page 5: score = 64.6% correct
+Page 6: score = 55.5% correct
+Time used: 158.21255493164062 s
+k = 280
+Page 1: score = 80.9% correct
+Page 2: score = 84.2% correct
+Page 3: score = 86.9% correct
+Page 4: score = 76.4% correct
+Page 5: score = 64.7% correct
+Page 6: score = 55.7% correct
+Time used: 165.1821208000183 s
+k = 290
+Page 1: score = 80.7% correct
+Page 2: score = 84.0% correct
+Page 3: score = 86.3% correct
+Page 4: score = 76.5% correct
+Page 5: score = 64.4% correct
+Page 6: score = 55.9% correct
+Time used: 167.05954360961914 s
+k = 300
+Page 1: score = 80.1% correct
+Page 2: score = 83.8% correct
+Page 3: score = 86.2% correct
+Page 4: score = 76.8% correct
+Page 5: score = 64.4% correct
+Page 6: score = 55.8% correct
+Time used: 169.7831552028656 s
+k = 310
+Page 1: score = 79.9% correct
+Page 2: score = 83.3% correct
+Page 3: score = 85.9% correct
+Page 4: score = 76.4% correct
+Page 5: score = 64.4% correct
+Page 6: score = 55.5% correct
+Time used: 173.05489039421082 s
+k = 320
+Page 1: score = 79.1% correct
+Page 2: score = 82.5% correct
+Page 3: score = 85.9% correct
+Page 4: score = 76.6% correct
+Page 5: score = 64.4% correct
+Page 6: score = 56.0% correct
+Time used: 176.60468888282776 s
+k = 330
+Page 1: score = 79.0% correct
+Page 2: score = 82.2% correct
+Page 3: score = 85.1% correct
+Page 4: score = 76.4% correct
+Page 5: score = 64.2% correct
+Page 6: score = 56.4% correct
+Time used: 180.38353776931763 s
+k = 340
+Page 1: score = 78.8% correct
+Page 2: score = 81.9% correct
+Page 3: score = 84.7% correct
+Page 4: score = 75.9% correct
+Page 5: score = 64.0% correct
+Page 6: score = 56.5% correct
+Time used: 184.08736944198608 s
+k = 350
+Page 1: score = 78.6% correct
+Page 2: score = 81.9% correct
+Page 3: score = 84.6% correct
+Page 4: score = 75.9% correct
+Page 5: score = 64.0% correct
+Page 6: score = 56.0% correct
+Time used: 187.65517210960388 s
+k = 360
+Page 1: score = 78.4% correct
+Page 2: score = 81.8% correct
+Page 3: score = 84.5% correct
+Page 4: score = 75.8% correct
+Page 5: score = 64.5% correct
+Page 6: score = 56.2% correct
+Time used: 191.4450237751007 s
+k = 370
+Page 1: score = 78.2% correct
+Page 2: score = 81.4% correct
+Page 3: score = 84.6% correct
+Page 4: score = 75.3% correct
+Page 5: score = 64.2% correct
+Page 6: score = 56.7% correct
+Time used: 195.37890791893005 s
+k = 380
+Page 1: score = 77.9% correct
+Page 2: score = 81.4% correct
+Page 3: score = 84.7% correct
+Page 4: score = 75.2% correct
+Page 5: score = 64.8% correct
+Page 6: score = 57.3% correct
+Time used: 198.89369750022888 s
+k = 390
+Page 1: score = 77.9% correct
+Page 2: score = 81.0% correct
+Page 3: score = 84.6% correct
+Page 4: score = 74.9% correct
+Page 5: score = 64.8% correct
+Page 6: score = 57.0% correct
+Time used: 202.58652758598328 s
+k = 400
+Page 1: score = 77.8% correct
+Page 2: score = 80.9% correct
+Page 3: score = 83.7% correct
+Page 4: score = 74.9% correct
+Page 5: score = 64.5% correct
+Page 6: score = 57.1% correct
+Time used: 205.8452594280243 s
+k = 410
+Page 1: score = 77.0% correct
+Page 2: score = 80.6% correct
+Page 3: score = 83.4% correct
+Page 4: score = 74.8% correct
+Page 5: score = 64.6% correct
+Page 6: score = 57.0% correct
+Time used: 210.11121892929077 s
+k = 420
+Page 1: score = 76.5% correct
+Page 2: score = 80.5% correct
+Page 3: score = 83.0% correct
+Page 4: score = 74.7% correct
+Page 5: score = 64.1% correct
+Page 6: score = 56.7% correct
+Time used: 213.54399013519287 s
+k = 430
+Page 1: score = 76.9% correct
+Page 2: score = 80.1% correct
+Page 3: score = 82.6% correct
+Page 4: score = 75.1% correct
+Page 5: score = 64.7% correct
+Page 6: score = 56.8% correct
+Time used: 217.63991045951843 s
+k = 440
+Page 1: score = 76.5% correct
+Page 2: score = 79.3% correct
+Page 3: score = 82.3% correct
+Page 4: score = 75.0% correct
+Page 5: score = 64.6% correct
+Page 6: score = 57.0% correct
+Time used: 220.9526550769806 s
+k = 450
+Page 1: score = 76.5% correct
+Page 2: score = 79.0% correct
+Page 3: score = 82.3% correct
+Page 4: score = 74.6% correct
+Page 5: score = 64.7% correct
+Page 6: score = 57.3% correct
+Time used: 225.05057621002197 s
+k = 460
+Page 1: score = 76.5% correct
+Page 2: score = 78.8% correct
+Page 3: score = 81.4% correct
+Page 4: score = 74.4% correct
+Page 5: score = 64.5% correct
+Page 6: score = 57.1% correct
+Time used: 228.66238689422607 s
+k = 470
+Page 1: score = 76.2% correct
+Page 2: score = 78.3% correct
+Page 3: score = 81.6% correct
+Page 4: score = 74.1% correct
+Page 5: score = 64.7% correct
+Page 6: score = 57.1% correct
+Time used: 233.49447345733643 s
+k = 480
+Page 1: score = 75.8% correct
+Page 2: score = 77.8% correct
+Page 3: score = 80.8% correct
+Page 4: score = 73.5% correct
+Page 5: score = 64.6% correct
+Page 6: score = 56.5% correct
+Time used: 239.03071761131287 s
+k = 490
+Page 1: score = 75.6% correct
+Page 2: score = 77.3% correct
+Page 3: score = 80.9% correct
+Page 4: score = 73.6% correct
+Page 5: score = 64.9% correct
+Page 6: score = 57.0% correct
+Time used: 243.02361416816711 s
+k = 500
+Page 1: score = 75.6% correct
+Page 2: score = 77.1% correct
+Page 3: score = 80.7% correct
+Page 4: score = 72.9% correct
+Page 5: score = 64.7% correct
+Page 6: score = 57.0% correct
+Time used: 245.39714813232422 s
+k = 510
+Page 1: score = 75.6% correct
+Page 2: score = 76.5% correct
+Page 3: score = 80.4% correct
+Page 4: score = 72.7% correct
+Page 5: score = 64.3% correct
+Page 6: score = 57.1% correct
+Time used: 249.62409830093384 s
+k = 520
+Page 1: score = 75.6% correct
+Page 2: score = 76.4% correct
+Page 3: score = 80.3% correct
+Page 4: score = 71.8% correct
+Page 5: score = 64.7% correct
+Page 6: score = 57.3% correct
+Time used: 253.47696375846863 s
+k = 530
+Page 1: score = 74.9% correct
+Page 2: score = 76.6% correct
+Page 3: score = 80.0% correct
+Page 4: score = 72.1% correct
+Page 5: score = 64.0% correct
+Page 6: score = 57.9% correct
+Time used: 257.7399220466614 s
+k = 540
+Page 1: score = 74.6% correct
+Page 2: score = 76.2% correct
+Page 3: score = 79.5% correct
+Page 4: score = 72.3% correct
+Page 5: score = 64.3% correct
+Page 6: score = 57.8% correct
+Time used: 261.94686818122864 s
+k = 550
+Page 1: score = 74.6% correct
+Page 2: score = 76.1% correct
+Page 3: score = 79.4% correct
+Page 4: score = 72.1% correct
+Page 5: score = 64.2% correct
+Page 6: score = 58.0% correct
+Time used: 264.6454737186432 s
+k = 560
+Page 1: score = 74.6% correct
+Page 2: score = 76.4% correct
+Page 3: score = 79.2% correct
+Page 4: score = 72.2% correct
+Page 5: score = 63.9% correct
+Page 6: score = 58.2% correct
+Time used: 268.8004078865051 s
+k = 570
+Page 1: score = 74.4% correct
+Page 2: score = 76.4% correct
+Page 3: score = 78.6% correct
+Page 4: score = 72.4% correct
+Page 5: score = 64.5% correct
+Page 6: score = 58.1% correct
+Time used: 273.42944836616516 s
+k = 580
+Page 1: score = 73.8% correct
+Page 2: score = 76.2% correct
+Page 3: score = 78.3% correct
+Page 4: score = 72.1% correct
+Page 5: score = 64.3% correct
+Page 6: score = 58.3% correct
+Time used: 275.97902178764343 s
+k = 590
+Page 1: score = 73.7% correct
+Page 2: score = 75.9% correct
+Page 3: score = 77.9% correct
+Page 4: score = 71.6% correct
+Page 5: score = 64.0% correct
+Page 6: score = 58.3% correct
+Time used: 280.3179955482483 s
+k = 600
+Page 1: score = 73.3% correct
+Page 2: score = 76.0% correct
+Page 3: score = 77.5% correct
+Page 4: score = 71.5% correct
+Page 5: score = 63.7% correct
+Page 6: score = 57.8% correct
+Time used: 283.5297179222107 s
+k = 610
+Page 1: score = 73.2% correct
+Page 2: score = 75.9% correct
+Page 3: score = 77.6% correct
+Page 4: score = 71.2% correct
+Page 5: score = 63.6% correct
+Page 6: score = 57.7% correct
+Time used: 287.0925192832947 s
+k = 620
+Page 1: score = 73.4% correct
+Page 2: score = 76.0% correct
+Page 3: score = 77.7% correct
+Page 4: score = 71.2% correct
+Page 5: score = 63.5% correct
+Page 6: score = 57.7% correct
+Time used: 290.8193562030792 s
+k = 630
+Page 1: score = 72.5% correct
+Page 2: score = 76.0% correct
+Page 3: score = 77.4% correct
+Page 4: score = 70.8% correct
+Page 5: score = 62.7% correct
+Page 6: score = 57.6% correct
+Time used: 294.99929642677307 s
+k = 640
+Page 1: score = 72.5% correct
+Page 2: score = 75.9% correct
+Page 3: score = 77.5% correct
+Page 4: score = 70.7% correct
+Page 5: score = 62.6% correct
+Page 6: score = 57.6% correct
+Time used: 298.70412826538086 s
+k = 650
+Page 1: score = 72.5% correct
+Page 2: score = 75.3% correct
+Page 3: score = 77.7% correct
+Page 4: score = 70.5% correct
+Page 5: score = 62.4% correct
+Page 6: score = 57.8% correct
+Time used: 302.0078709125519 s
+k = 660
+Page 1: score = 72.4% correct
+Page 2: score = 75.1% correct
+Page 3: score = 77.2% correct
+Page 4: score = 70.4% correct
+Page 5: score = 62.9% correct
+Page 6: score = 58.0% correct
+Time used: 305.9927659034729 s
+k = 670
+Page 1: score = 72.4% correct
+Page 2: score = 75.0% correct
+Page 3: score = 77.0% correct
+Page 4: score = 70.4% correct
+Page 5: score = 62.6% correct
+Page 6: score = 57.7% correct
+Time used: 310.1987109184265 s
+k = 680
+Page 1: score = 72.5% correct
+Page 2: score = 74.7% correct
+Page 3: score = 76.9% correct
+Page 4: score = 70.2% correct
+Page 5: score = 62.7% correct
+Page 6: score = 57.4% correct
+Time used: 313.5744698047638 s
+k = 690
+Page 1: score = 72.2% correct
+Page 2: score = 74.7% correct
+Page 3: score = 76.7% correct
+Page 4: score = 69.7% correct
+Page 5: score = 63.0% correct
+Page 6: score = 57.8% correct
+Time used: 316.8762528896332 s
+k = 700
+Page 1: score = 71.9% correct
+Page 2: score = 74.7% correct
+Page 3: score = 76.7% correct
+Page 4: score = 69.9% correct
+Page 5: score = 62.9% correct
+Page 6: score = 57.9% correct
+Time used: 320.10593724250793 s
+k = 710
+Page 1: score = 71.5% correct
+Page 2: score = 74.8% correct
+Page 3: score = 76.6% correct
+Page 4: score = 70.0% correct
+Page 5: score = 62.5% correct
+Page 6: score = 57.8% correct
+Time used: 323.65873670578003 s
+k = 720
+Page 1: score = 71.6% correct
+Page 2: score = 74.7% correct
+Page 3: score = 76.0% correct
+Page 4: score = 69.7% correct
+Page 5: score = 62.5% correct
+Page 6: score = 57.6% correct
+Time used: 328.9769308567047 s
+k = 730
+Page 1: score = 71.6% correct
+Page 2: score = 74.2% correct
+Page 3: score = 76.2% correct
+Page 4: score = 69.6% correct
+Page 5: score = 62.6% correct
+Page 6: score = 57.5% correct
+Time used: 332.7727837562561 s
+k = 740
+Page 1: score = 71.2% correct
+Page 2: score = 73.9% correct
+Page 3: score = 75.9% correct
+Page 4: score = 69.4% correct
+Page 5: score = 62.2% correct
+Page 6: score = 57.6% correct
+Time used: 336.7126696109772 s
+k = 750
+Page 1: score = 71.3% correct
+Page 2: score = 73.8% correct
+Page 3: score = 75.6% correct
+Page 4: score = 69.2% correct
+Page 5: score = 62.1% correct
+Page 6: score = 57.5% correct
+Time used: 339.549307346344 s
+k = 760
+Page 1: score = 70.9% correct
+Page 2: score = 73.8% correct
+Page 3: score = 75.8% correct
+Page 4: score = 69.4% correct
+Page 5: score = 61.9% correct
+Page 6: score = 57.4% correct
+Time used: 343.2121305465698 s
+k = 770
+Page 1: score = 70.6% correct
+Page 2: score = 73.7% correct
+Page 3: score = 75.3% correct
+Page 4: score = 68.5% correct
+Page 5: score = 61.5% correct
+Page 6: score = 57.5% correct
+Time used: 348.20225191116333 s
+k = 780
+Page 1: score = 70.1% correct
+Page 2: score = 73.6% correct
+Page 3: score = 74.8% correct
+Page 4: score = 68.1% correct
+Page 5: score = 61.5% correct
+Page 6: score = 56.8% correct
+Time used: 350.9528694152832 s
+k = 790
+Page 1: score = 69.8% correct
+Page 2: score = 73.8% correct
+Page 3: score = 74.7% correct
+Page 4: score = 67.8% correct
+Page 5: score = 61.5% correct
+Page 6: score = 57.0% correct
+Time used: 354.5546796321869 s
+k = 800
+Page 1: score = 69.8% correct
+Page 2: score = 73.2% correct
+Page 3: score = 74.8% correct
+Page 4: score = 67.7% correct
+Page 5: score = 61.4% correct
+Page 6: score = 56.5% correct
+Time used: 358.99667739868164 s
+k = 810
+Page 1: score = 69.5% correct
+Page 2: score = 73.1% correct
+Page 3: score = 74.8% correct
+Page 4: score = 67.7% correct
+Page 5: score = 61.4% correct
+Page 6: score = 56.4% correct
+Time used: 361.9123327732086 s
+k = 820
+Page 1: score = 69.3% correct
+Page 2: score = 73.0% correct
+Page 3: score = 74.5% correct
+Page 4: score = 67.3% correct
+Page 5: score = 61.3% correct
+Page 6: score = 56.1% correct
+Time used: 366.37233543395996 s
+k = 830
+Page 1: score = 68.8% correct
+Page 2: score = 73.0% correct
+Page 3: score = 74.4% correct
+Page 4: score = 67.5% correct
+Page 5: score = 61.0% correct
+Page 6: score = 55.6% correct
+Time used: 369.6010603904724 s
+k = 840
+Page 1: score = 68.5% correct
+Page 2: score = 73.0% correct
+Page 3: score = 74.1% correct
+Page 4: score = 67.0% correct
+Page 5: score = 60.9% correct
+Page 6: score = 56.0% correct
+Time used: 373.1738636493683 s
+k = 850
+Page 1: score = 68.2% correct
+Page 2: score = 72.7% correct
+Page 3: score = 73.7% correct
+Page 4: score = 66.6% correct
+Page 5: score = 60.9% correct
+Page 6: score = 55.8% correct
+Time used: 378.12441539764404 s
+k = 860
+Page 1: score = 68.0% correct
+Page 2: score = 71.6% correct
+Page 3: score = 73.2% correct
+Page 4: score = 66.4% correct
+Page 5: score = 60.9% correct
+Page 6: score = 56.0% correct
+Time used: 380.7411034107208 s
+k = 870
+Page 1: score = 67.8% correct
+Page 2: score = 71.4% correct
+Page 3: score = 72.9% correct
+Page 4: score = 66.1% correct
+Page 5: score = 61.2% correct
+Page 6: score = 56.1% correct
+Time used: 384.47216796875 s
+k = 880
+Page 1: score = 67.5% correct
+Page 2: score = 70.9% correct
+Page 3: score = 72.7% correct
+Page 4: score = 65.9% correct
+Page 5: score = 61.3% correct
+Page 6: score = 55.7% correct
+Time used: 388.8085129261017 s
+k = 890
+Page 1: score = 67.2% correct
+Page 2: score = 70.9% correct
+Page 3: score = 72.1% correct
+Page 4: score = 65.3% correct
+Page 5: score = 60.9% correct
+Page 6: score = 55.6% correct
+Time used: 391.84996461868286 s
+k = 900
+Page 1: score = 67.0% correct
+Page 2: score = 70.8% correct
+Page 3: score = 72.0% correct
+Page 4: score = 65.2% correct
+Page 5: score = 61.0% correct
+Page 6: score = 55.2% correct
+Time used: 396.15602803230286 s
+k = 910
+Page 1: score = 66.7% correct
+Page 2: score = 70.4% correct
+Page 3: score = 71.7% correct
+Page 4: score = 64.9% correct
+Page 5: score = 60.8% correct
+Page 6: score = 55.0% correct
+Time used: 399.2606945037842 s
+k = 920
+Page 1: score = 67.2% correct
+Page 2: score = 69.9% correct
+Page 3: score = 71.8% correct
+Page 4: score = 64.8% correct
+Page 5: score = 60.8% correct
+Page 6: score = 54.9% correct
+Time used: 402.66681694984436 s
+k = 930
+Page 1: score = 66.7% correct
+Page 2: score = 69.6% correct
+Page 3: score = 71.3% correct
+Page 4: score = 64.8% correct
+Page 5: score = 61.0% correct
+Page 6: score = 55.0% correct
+Time used: 406.06912064552307 s
+k = 940
+Page 1: score = 66.8% correct
+Page 2: score = 69.5% correct
+Page 3: score = 71.0% correct
+Page 4: score = 64.3% correct
+Page 5: score = 60.5% correct
+Page 6: score = 54.9% correct
+Time used: 408.50464606285095 s
+k = 950
+Page 1: score = 66.7% correct
+Page 2: score = 69.4% correct
+Page 3: score = 71.2% correct
+Page 4: score = 63.8% correct
+Page 5: score = 60.2% correct
+Page 6: score = 54.5% correct
+Time used: 412.0556035041809 s
+k = 960
+Page 1: score = 66.6% correct
+Page 2: score = 69.4% correct
+Page 3: score = 71.2% correct
+Page 4: score = 63.4% correct
+Page 5: score = 60.0% correct
+Page 6: score = 54.2% correct
+Time used: 415.92101311683655 s
+k = 970
+Page 1: score = 66.4% correct
+Page 2: score = 69.1% correct
+Page 3: score = 70.9% correct
+Page 4: score = 63.0% correct
+Page 5: score = 59.8% correct
+Page 6: score = 54.5% correct
+Time used: 419.53728222846985 s
+k = 980
+Page 1: score = 66.2% correct
+Page 2: score = 69.1% correct
+Page 3: score = 70.9% correct
+Page 4: score = 62.8% correct
+Page 5: score = 59.7% correct
+Page 6: score = 54.5% correct
+Time used: 422.7390019893646 s
+k = 990
+Page 1: score = 66.1% correct
+Page 2: score = 68.6% correct
+Page 3: score = 70.5% correct
+Page 4: score = 62.7% correct
+Page 5: score = 60.0% correct
+Page 6: score = 54.4% correct
+Time used: 428.396146774292 s
+k = 1000
+Page 1: score = 66.0% correct
+Page 2: score = 68.4% correct
+Page 3: score = 70.5% correct
+Page 4: score = 63.0% correct
+Page 5: score = 60.1% correct
+Page 6: score = 54.5% correct
+Time used: 433.10932183265686 s
+k = 1010
+Page 1: score = 65.1% correct
+Page 2: score = 68.2% correct
+Page 3: score = 70.1% correct
+Page 4: score = 62.6% correct
+Page 5: score = 59.8% correct
+Page 6: score = 54.5% correct
+Time used: 436.16744470596313 s
+k = 1020
+Page 1: score = 64.4% correct
+Page 2: score = 67.9% correct
+Page 3: score = 69.8% correct
+Page 4: score = 62.2% correct
+Page 5: score = 59.6% correct
+Page 6: score = 54.4% correct
+Time used: 437.430303812027 s
+k = 1030
+Page 1: score = 64.3% correct
+Page 2: score = 67.5% correct
+Page 3: score = 69.9% correct
+Page 4: score = 62.3% correct
+Page 5: score = 59.3% correct
+Page 6: score = 54.4% correct
+Time used: 440.9200885295868 s
+k = 1040
+Page 1: score = 64.4% correct
+Page 2: score = 67.2% correct
+Page 3: score = 70.2% correct
+Page 4: score = 61.9% correct
+Page 5: score = 58.9% correct
+Page 6: score = 54.1% correct
+Time used: 445.2000586986542 s
+k = 1050
+Page 1: score = 64.4% correct
+Page 2: score = 67.1% correct
+Page 3: score = 69.6% correct
+Page 4: score = 61.7% correct
+Page 5: score = 58.7% correct
+Page 6: score = 54.1% correct
+Time used: 448.1947317123413 s
+k = 1060
+Page 1: score = 64.1% correct
+Page 2: score = 66.8% correct
+Page 3: score = 69.6% correct
+Page 4: score = 61.8% correct
+Page 5: score = 58.7% correct
+Page 6: score = 53.8% correct
+Time used: 452.5457010269165 s
+k = 1070
+Page 1: score = 64.0% correct
+Page 2: score = 66.8% correct
+Page 3: score = 69.3% correct
+Page 4: score = 61.7% correct
+Page 5: score = 58.2% correct
+Page 6: score = 53.9% correct
+Time used: 455.76142406463623 s
+k = 1080
+Page 1: score = 64.0% correct
+Page 2: score = 66.6% correct
+Page 3: score = 69.0% correct
+Page 4: score = 61.9% correct
+Page 5: score = 58.0% correct
+Page 6: score = 53.8% correct
+Time used: 460.31944847106934 s
+k = 1090
+Page 1: score = 63.5% correct
+Page 2: score = 66.3% correct
+Page 3: score = 68.6% correct
+Page 4: score = 61.6% correct
+Page 5: score = 58.1% correct
+Page 6: score = 53.8% correct
+Time used: 462.84001421928406 s
+k = 1100
+Page 1: score = 63.1% correct
+Page 2: score = 66.2% correct
+Page 3: score = 68.7% correct
+Page 4: score = 61.3% correct
+Page 5: score = 58.2% correct
+Page 6: score = 53.5% correct
+Time used: 466.43483114242554 s
+k = 1110
+Page 1: score = 62.8% correct
+Page 2: score = 66.1% correct
+Page 3: score = 68.1% correct
+Page 4: score = 61.4% correct
+Page 5: score = 58.2% correct
+Page 6: score = 53.4% correct
+Time used: 469.3414762020111 s
+k = 1120
+Page 1: score = 63.0% correct
+Page 2: score = 65.4% correct
+Page 3: score = 67.9% correct
+Page 4: score = 61.1% correct
+Page 5: score = 57.7% correct
+Page 6: score = 53.4% correct
+Time used: 473.5373809337616 s
+k = 1130
+Page 1: score = 62.9% correct
+Page 2: score = 65.0% correct
+Page 3: score = 68.0% correct
+Page 4: score = 60.8% correct
+Page 5: score = 58.0% correct
+Page 6: score = 53.6% correct
+Time used: 477.1922402381897 s
+k = 1140
+Page 1: score = 62.7% correct
+Page 2: score = 65.1% correct
+Page 3: score = 67.7% correct
+Page 4: score = 61.0% correct
+Page 5: score = 57.9% correct
+Page 6: score = 53.3% correct
+Time used: 480.6970269680023 s
+k = 1150
+Page 1: score = 62.3% correct
+Page 2: score = 65.1% correct
+Page 3: score = 67.6% correct
+Page 4: score = 60.7% correct
+Page 5: score = 57.3% correct
+Page 6: score = 53.4% correct
+Time used: 486.3192913532257 s
+k = 1160
+Page 1: score = 62.3% correct
+Page 2: score = 65.1% correct
+Page 3: score = 67.6% correct
+Page 4: score = 60.4% correct
+Page 5: score = 57.1% correct
+Page 6: score = 53.0% correct
+Time used: 487.8708908557892 s
+k = 1170
+Page 1: score = 61.9% correct
+Page 2: score = 65.1% correct
+Page 3: score = 67.5% correct
+Page 4: score = 60.5% correct
+Page 5: score = 57.2% correct
+Page 6: score = 52.9% correct
+Time used: 491.2834048271179 s
+k = 1180
+Page 1: score = 61.8% correct
+Page 2: score = 64.7% correct
+Page 3: score = 67.8% correct
+Page 4: score = 60.5% correct
+Page 5: score = 57.3% correct
+Page 6: score = 52.8% correct
+Time used: 495.95945739746094 s
+k = 1190
+Page 1: score = 61.7% correct
+Page 2: score = 64.5% correct
+Page 3: score = 67.7% correct
+Page 4: score = 60.4% correct
+Page 5: score = 57.3% correct
+Page 6: score = 52.6% correct
+Time used: 499.1651771068573 s
+k = 1200
+Page 1: score = 61.5% correct
+Page 2: score = 64.5% correct
+Page 3: score = 67.6% correct
+Page 4: score = 60.3% correct
+Page 5: score = 57.2% correct
+Page 6: score = 52.6% correct
+Time used: 502.2678759098053 s
+k = 1210
+Page 1: score = 61.2% correct
+Page 2: score = 64.3% correct
+Page 3: score = 67.6% correct
+Page 4: score = 60.2% correct
+Page 5: score = 57.1% correct
+Page 6: score = 52.6% correct
+Time used: 504.77043771743774 s
+k = 1220
+Page 1: score = 61.5% correct
+Page 2: score = 63.8% correct
+Page 3: score = 67.4% correct
+Page 4: score = 59.9% correct
+Page 5: score = 56.8% correct
+Page 6: score = 52.4% correct
+Time used: 509.0824062824249 s
+k = 1230
+Page 1: score = 60.9% correct
+Page 2: score = 63.9% correct
+Page 3: score = 66.9% correct
+Page 4: score = 59.7% correct
+Page 5: score = 56.8% correct
+Page 6: score = 52.6% correct
+Time used: 513.4753940105438 s
+k = 1240
+Page 1: score = 60.8% correct
+Page 2: score = 63.8% correct
+Page 3: score = 66.5% correct
+Page 4: score = 59.3% correct
+Page 5: score = 56.7% correct
+Page 6: score = 52.4% correct
+Time used: 517.7243483066559 s
+k = 1250
+Page 1: score = 60.9% correct
+Page 2: score = 63.6% correct
+Page 3: score = 66.4% correct
+Page 4: score = 59.1% correct
+Page 5: score = 56.8% correct
+Page 6: score = 52.3% correct
+Time used: 520.4184777736664 s
+k = 1260
+Page 1: score = 60.2% correct
+Page 2: score = 63.6% correct
+Page 3: score = 66.6% correct
+Page 4: score = 58.7% correct
+Page 5: score = 56.7% correct
+Page 6: score = 52.4% correct
+Time used: 523.9057462215424 s
+k = 1270
+Page 1: score = 60.4% correct
+Page 2: score = 63.6% correct
+Page 3: score = 66.2% correct
+Page 4: score = 58.5% correct
+Page 5: score = 56.7% correct
+Page 6: score = 52.2% correct
+Time used: 528.9908804893494 s
+k = 1280
+Page 1: score = 59.9% correct
+Page 2: score = 63.4% correct
+Page 3: score = 65.8% correct
+Page 4: score = 58.7% correct
+Page 5: score = 56.4% correct
+Page 6: score = 52.6% correct
+Time used: 531.5694606304169 s
+k = 1290
+Page 1: score = 60.2% correct
+Page 2: score = 63.3% correct
+Page 3: score = 65.7% correct
+Page 4: score = 58.6% correct
+Page 5: score = 56.3% correct
+Page 6: score = 52.1% correct
+Time used: 534.0720229148865 s
+k = 1300
+Page 1: score = 59.8% correct
+Page 2: score = 62.9% correct
+Page 3: score = 65.6% correct
+Page 4: score = 58.5% correct
+Page 5: score = 56.1% correct
+Page 6: score = 52.3% correct
+Time used: 538.7570753097534 s
+k = 1310
+Page 1: score = 59.7% correct
+Page 2: score = 62.8% correct
+Page 3: score = 65.1% correct
+Page 4: score = 58.3% correct
+Page 5: score = 56.3% correct
+Page 6: score = 52.1% correct
+Time used: 541.7657520771027 s
+k = 1320
+Page 1: score = 59.5% correct
+Page 2: score = 62.9% correct
+Page 3: score = 64.8% correct
+Page 4: score = 58.2% correct
+Page 5: score = 56.2% correct
+Page 6: score = 52.0% correct
+Time used: 545.5736072063446 s
