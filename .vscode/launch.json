@@ -5,7 +5,14 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "train",
+            "name": "Run powershell",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/code/run.ps1",
+            "cwd": "${workspaceFolder}/code"
+        },
+        {
+            "name": "Train",
             "type": "python",
             "request": "launch",
             "cwd": "${workspaceFolder}/code",
@@ -13,7 +20,7 @@
             "console": "integratedTerminal"
         },
         {
-            "name": "dev",
+            "name": "Dev classify",
             "type": "python",
             "request": "launch",
             "cwd": "${workspaceFolder}/code",
