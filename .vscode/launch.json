@@ -8,14 +8,16 @@
             "name": "train",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/train.py",
+            "cwd": "${workspaceFolder}/code",
+            "program": "${workspaceFolder}/code/train.py",
             "console": "integratedTerminal"
         },
         {
             "name": "dev",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/evaluate.py",
+            "cwd": "${workspaceFolder}/code",
+            "program": "${workspaceFolder}/code/evaluate.py",
             "args": ["dev"],
             "console": "integratedTerminal"
         }
