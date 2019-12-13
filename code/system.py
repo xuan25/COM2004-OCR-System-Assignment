@@ -64,7 +64,7 @@ use_binarization = False
 # Therefore, more positive offsets will be clipped which are applied on the white pixels, and more negative offsets will be fully applied,
 # so the overall grayscale mean will decrease (visually darker).
 # Because the more noisy sample will use larger x value, the overall grayscale mean will decrease even more.
-# So I measure the noise level by calculating the mean grayscale value。
+# So I measure the noise level by calculating the mean grayscale value.
 gray_mean_queue = []
 
 #endregion
@@ -305,7 +305,9 @@ def select_features(feature_vectors, labels, dimensions):
     return features
 
 def gaussian_filter(feature_vector, bbox_size):
-    """Apply gaussian filter to an image
+    """Apply gaussian filter to an image 
+    (this part of code is modified from: https://blog.csdn.net/lihao008/article/details/79401168)
+    (Other reference links: http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html)
     
     feature_vector - a 1-D vector represents an image
     bbox_size - size of the border box
