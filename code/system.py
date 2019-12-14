@@ -9,11 +9,12 @@ dummy implementations that do not do anything useful.
 
 version: v1.0
 """
+import math
+import sys
 import numpy as np
 import scipy.linalg
 import utils.utils as utils
-import sys
-import math
+
 
 #region Global options & Global variable
 
@@ -329,8 +330,8 @@ def gaussian_filter(feature_vector, bbox_size):
     result = np.zeros((side_length, side_length))
     for i in range(side_length):
         for j in range(side_length):
-            x = i-radius
-            y = j-radius
+            x = i - radius
+            y = j - radius
             result[i, j]= 1/(2*math.pi*sigema*sigema) * math.exp(-(x*x+y*y)/(2*sigema*sigema))
     all = result.sum()  
     template = result / all   
@@ -343,11 +344,9 @@ def gaussian_filter(feature_vector, bbox_size):
     width = image_value.shape[1]
     for i in range(radius, height-radius):
         for j in range(radius, width-radius):
-            t=image_value[i-radius:i+radius+1, j-radius:j+radius+1]
-            a= np.multiply(t, template)
+            t = image_value[i-radius:i+radius+1, j-radius:j+radius+1]
+            a = np.multiply(t, template)
             image_value_new[i-radius, j-radius] = a.sum()
-
-    # Image.fromarray(image_value_new).show()
 
     # Reshape to a vector
     new_features = image_value_new.reshape(bbox_size[0]*bbox_size[1])
@@ -371,7 +370,7 @@ def classify_page(page, model):
     if auto_adjust_k:
         global nearest_neighbour_k
         gray_mean = gray_mean_queue.pop(0)
-        k = round(-32.321*100*gray_mean+2058.1)
+        k = round(-32.321 * 100*gray_mean + 2058.1)
         if(k < 2):
             k = 2
         if(k > 200):
@@ -401,7 +400,7 @@ def classify(train, train_labels, test, k, n):
         print('Processing classify...')
 
     # Calculate diatances
-    x= np.dot(test, train.transpose())
+    x = np.dot(test, train.transpose())
     modtest = np.sqrt(np.sum(test * test, axis=1))
     modtrain = np.sqrt(np.sum(train * train, axis=1))
     dist = x / np.outer(modtest, modtrain.transpose()); # cosine distance
@@ -418,7 +417,7 @@ def classify(train, train_labels, test, k, n):
 
         # Deduplicated labels
         classes_label = list(set(train_labels))
-        classes_label.sort(key=(lambda l : train_labels[train_labels == l].shape[0]))
+        classes_label.sort(key = (lambda l : train_labels[train_labels == l].shape[0]))
         classes_label = np.array(classes_label)
         
         label = []
@@ -502,7 +501,6 @@ def correct(labels, start, end, wordset, output_labels):
     predictions = labels.shape[1]
     word_length = end - start
     open_list = []
-    # closed_list = []
     closed_count = 0
 
     open_list.append(Node(-1, [], 0))
@@ -524,7 +522,6 @@ def correct(labels, start, end, wordset, output_labels):
                 return
         
         # Finish the node, find successor
-        # closed_list.append(node)
         open_list.remove(node)
         closed_count += 1
         next_pos = node.pos+1
