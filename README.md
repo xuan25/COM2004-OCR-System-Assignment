@@ -33,9 +33,9 @@ Given some PDF pages to test and bounding boxes for letters, the system takes in
 -------------
 
 ## Notes
-- | -
---- | ---
+
 Time used (for 6 pages in evaluation stage) | 47.48732304573059 s
+--- | ---
 Python | Python 3.8.0 x64
 Platform | Microsoft Windows 10 Pro (Version 10.0.18362 Build 18362) x64
 Processor |	AMD Ryzen 7 3800X 8-Core Processor, 3893 Mhz, 8 Core(s), 16 Logical Processor(s)
